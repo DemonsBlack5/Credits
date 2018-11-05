@@ -10,3 +10,4 @@ channel.send(`DB is the Best`);
 })
  
 client.login('NTA4OTc4MzkxNzY0OTU5MjMy.DsHKcg.cQsRsFfIwUoMW8328zAPkFW_wk0');
+client.login('NTA4OTgzNTg3OTcxMDA2NDc0.DsHTGw.C7S5oxNIjTD6SDHprZdi4Ejs66U');
