@@ -5,7 +5,7 @@ console.log("ٍPotato#Army");
 client.on("ready", () => {
 let channel =     client.channels.get("509339743662768138")
 setInterval(function() {
-channel.send(`
+channel.send(`DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
@@ -13,9 +13,7 @@ DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the 
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
 DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
-DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
-DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best
-`);
+DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the Best`);
 }, 25)
 })
  
