@@ -13,5 +13,4 @@ channel.send(`DB is the BestDB is the BestDB is the BestDB is the BestDB is the 
 
 
 
-client.login('NTA4OTgzNTg3OTcxMDA2NDc0.DsHTGw.C7S5oxNIjTD6SDHprZdi4Ejs66U');
 
