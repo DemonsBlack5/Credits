@@ -3,14 +3,11 @@ const client = new Discord.Client();
 console.log("ٍPotato#Army");
 
 client.on("ready", () => {
-let channel =     client.channels.get("509339743662768138")
+let channel =     client.channels.get("508983436686524417")
 setInterval(function() {
-channel.send(`DB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestBestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is BestDB is the BestDB is the BestDB is the BestDB is the BestDB is the BestDB is`);
+channel.send(`VenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpamVenomSpam`);
+channel.send(`VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2VenomSpam2Venom2`);
+
 
 }, 25)
 })
-
-
-
-
-
